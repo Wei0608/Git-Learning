@@ -8,3 +8,4 @@ feature-a test
 
 feature-a squash test 1
 feature-a squash test 2
+feature-a squash test 3
