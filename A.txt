@@ -5,3 +5,5 @@ Line 3
 Line 4
 
 feature-a test
+
+feature-a squash test 1
